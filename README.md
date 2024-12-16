@@ -1,5 +1,15 @@
 # Test Driven Generator
 
+## TODO
+- Implement LangChain tool
+- Implement Crew.ai
+- Test Code-llama LLM coding
+- Test Claude LLM for coding
+
+
+--------
+// TODO: Update this legacy definition 
+
 The idea behind this tool is explained in
 this [presentation](https://docs.google.com/presentation/d/1UQeBTu0jupNiNV-Ul943Qz2A4fEjqDScZay45bO6q9A/edit?usp=sharing).
 
